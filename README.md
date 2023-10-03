@@ -1,7 +1,7 @@
 ## multimodal DINO
 Codes for ***Adaptive Multimodal Feature Fusion with Frequency Domain Gate for Remote Sensing Object Detection***
 
-Yinhui Yu,Xu Sun,Qing Cheng
+Xu Sun,Yinhui Yu,Qing Cheng
 
 
 ## Update
