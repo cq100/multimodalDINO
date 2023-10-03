@@ -15,7 +15,7 @@ Yinhui Yu,Xu Sun,Qing Cheng
 
 **2. Data Preparation**
 
-The unsupervised drone images we collected will soon be provided with a download link to Google Cloud Drive.
+Download links for both datasets will be provided.
 
 
 **3. The visualizing detection results of our approach on the Visdrone and UAVDT datasets.**
